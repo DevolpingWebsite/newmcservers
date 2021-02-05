@@ -1,0 +1,6 @@
+#Allow players with servermute.permissionsoverride to bypass the disabled commands
+permissions-override: false
+
+#Commands are only disabled when the server is muted
+disabled-commands:
+- me

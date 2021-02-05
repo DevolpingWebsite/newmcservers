@@ -1,0 +1,641 @@
+[16:28:49] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:28:50] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:28:50] [Worker-Main-4/INFO]: Loaded 7 recipes
+[16:28:52] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[16:28:52] [Server thread/INFO]: Loading properties
+[16:28:52] [Server thread/INFO]: This server is running Paper version git-Paper-334 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[16:28:52] [Server thread/INFO]: Debug logging is disabled
+[16:28:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:28:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:28:52] [Server thread/INFO]: Default game type: CREATIVE
+[16:28:52] [Server thread/INFO]: Generating keypair
+[16:28:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:28:52] [Server thread/INFO]: Using default channel type
+[16:28:53] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:28:59] [Server thread/WARN]: Legacy plugin Servermute v1.0 does not specify an api-version.
+[16:28:59] [Server thread/WARN]: Legacy plugin skript-reflect v2.2-alpha2 does not specify an api-version.
+[16:28:59] [Server thread/WARN]: Legacy plugin Vixio v2.0.7 does not specify an api-version.
+[16:28:59] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.7
+[16:28:59] [Server thread/INFO]: [Servermute] Loading Servermute v1.0
+[16:28:59] [Server thread/INFO]: [Skript] Loading Skript v2.5.3
+[16:28:59] [Server thread/INFO]: [RandomEffects] Loading RandomEffects v1.0
+[16:28:59] [Server thread/INFO]: [skript-yaml] Loading skript-yaml v1.3.2
+[16:28:59] [Server thread/INFO]: [skript-reflect] Loading skript-reflect v2.2-alpha2
+[16:28:59] [Server thread/INFO]: [Vixio] Loading Vixio v2.0.7
+[16:28:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:28:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:28:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:28:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:28:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:28:59] [Server thread/INFO]: Preparing level "world"
+[16:28:59] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:28:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:28:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:28:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:28:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:28:59] [Server thread/INFO]: View Distance: 10
+[16:28:59] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:28:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:28:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:28:59] [Server thread/INFO]: Mob Spawn Range: 6
+[16:28:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:28:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:28:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[16:28:59] [Server thread/INFO]: Max TNT Explosions: 100
+[16:28:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:28:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:28:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:29:00] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:29:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:29:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:29:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:29:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:29:00] [Server thread/INFO]: View Distance: 10
+[16:29:00] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:29:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:29:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:29:00] [Server thread/INFO]: Mob Spawn Range: 6
+[16:29:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:29:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[16:29:00] [Server thread/INFO]: Max TNT Explosions: 100
+[16:29:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:29:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:29:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:29:00] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[16:29:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:29:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:29:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:29:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:29:00] [Server thread/INFO]: View Distance: 10
+[16:29:00] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:29:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:29:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:29:00] [Server thread/INFO]: Mob Spawn Range: 6
+[16:29:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:29:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:29:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[16:29:00] [Server thread/INFO]: Max TNT Explosions: 100
+[16:29:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:29:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:29:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:29:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:29:00] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[16:29:00] [Server thread/INFO]: Preparing spawn area: 0%
+[16:29:00] [Server thread/INFO]: Time elapsed: 320 ms
+[16:29:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:29:01] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[16:29:01] [Server thread/INFO]: Time elapsed: 519 ms
+[16:29:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:29:01] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[16:29:01] [Server thread/INFO]: Time elapsed: 110 ms
+[16:29:01] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.1.7
+[16:29:01] [Server thread/INFO]: [Servermute] Enabling Servermute v1.0*
+[16:29:01] [Server thread/INFO]: [Skript] Enabling Skript v2.5.3
+[16:29:01] [Server thread/WARN]: [Skript] You are currently using 32-bit Java. This may result in a StackOverflowError when loading aliases.
+[16:29:01] [Server thread/WARN]: [Skript] Please update to 64-bit Java to remove this warning.
+[16:29:03] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
+[16:29:12] [Server thread/INFO]: [Skript] Loaded 128188 aliases in 10205ms
+[16:29:13] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[16:29:13] [Server thread/INFO]: [RandomEffects] Enabling RandomEffects v1.0
+[16:29:13] [Server thread/INFO]: [skript-yaml] Enabling skript-yaml v1.3.2
+[16:29:13] [Server thread/INFO]: [skript-reflect] Enabling skript-reflect v2.2-alpha2*
+[16:29:13] [Server thread/INFO]: [Vixio] Enabling Vixio v2.0.7*
+[16:29:13] [Server thread/INFO]: Running delayed init tasks
+[16:29:13] [Server thread/INFO]: [Skript] Loading variables...
+[16:29:13] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[16:29:16] [Server thread/INFO]: [Skoice] Configuration reloaded!
+[16:29:17] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[16:29:17] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 10 triggers and 1 command in 3.17 seconds
+[16:29:17] [Server thread/INFO]: [Skript] Finished loading.
+[16:29:17] [Server thread/INFO]: Done (24.729s)! For help, type "help"
+[16:29:17] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[16:29:17] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[16:29:17] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[16:29:17] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[16:29:17] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[16:29:17] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[16:29:17] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 11. When Paper for Minecraft 1.17 is
+[16:29:17] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 11 will
+[16:29:17] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[16:29:17] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[16:29:17] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 1.8.0_261
+[16:29:17] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[16:29:17] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[16:29:17] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java11
+[16:29:17] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[16:29:17] [Server thread/INFO]: Timings Reset
+[16:29:18] [Craft Scheduler Thread - 3/INFO]: [net.dv8tion.jda.api.JDA] Login Successful!
+[16:29:18] [JDA MainWS-WriteThread/INFO]: [net.dv8tion.jda.internal.requests.WebSocketClient] Connected to WebSocket
+[16:29:19] [JDA MainWS-ReadThread/INFO]: [net.dv8tion.jda.api.JDA] Finished Loading!
+[16:29:19] [Server thread/INFO]: [Skoice] Bot (SkoiceBBY#5090) logged in!
+[16:29:19] [Server thread/INFO]: [Skoice] Server (Friendyys) and main channel (mc-waiting-room) reached!
+[16:29:19] [Server thread/INFO]: [Skoice] Ready to operate!
+[16:30:15] [User Authenticator #1/INFO]: UUID of player Nicknotname is b002ca0e-207a-36b6-be03-1b5372765c3e
+[16:30:16] [Server thread/INFO]: Nicknotname joined the game
+[16:30:16] [Server thread/INFO]: Nicknotname[/127.0.0.1:52480] logged in with entity id 230 at ([world]266.358399105575, 68.0, 80.2559498279013)
+[16:30:43] [Server thread/INFO]: <!>Nicknotname has been given Absorption 2
+[16:31:13] [Server thread/INFO]: Nicknotname issued server command: /clear @a minecraft:diamond_sword
+[16:31:13] [Server thread/INFO]: [Nicknotname: Removed 1 items from player Nicknotname]
+[16:31:13] [Server thread/INFO]: <!>Nicknotname has been given Regeneration 12
+[16:31:20] [Server thread/INFO]: Nicknotname issued server command: /pvp
+[16:31:43] [Server thread/INFO]: <!>Nicknotname has been given Health Boost 25
+[16:32:13] [Server thread/INFO]: <!>Nicknotname has been given Saturation 21
+[16:32:43] [Server thread/INFO]: <!>Nicknotname has been blessed with Protection 10 on their boots
+[16:32:46] [Server thread/INFO]: Nicknotname issued server command: /give @a minecraft:diamond_axe
+[16:32:46] [Server thread/INFO]: [Nicknotname: Gave 1 [Diamond Axe] to Nicknotname]
+[16:33:01] [Server thread/INFO]: Nicknotname issued server command: /give @a minecraft:enchanting_table
+[16:33:01] [Server thread/INFO]: [Nicknotname: Gave 1 [Enchanting Table] to Nicknotname]
+[16:33:06] [Server thread/INFO]: Nicknotname issued server command: /give @a minecraft:bookshelf 14
+[16:33:06] [Server thread/INFO]: [Nicknotname: Gave 14 [Bookshelf] to Nicknotname]
+[16:33:13] [Server thread/INFO]: Nicknotname should look up
+[16:33:20] [Server thread/INFO]: Nicknotname lost connection: Disconnected
+[16:33:29] [Server thread/INFO]: Nicknotname left the game
+[16:33:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8979ms or 179 ticks behind
+[16:34:11] [User Authenticator #2/INFO]: UUID of player Nicknotname is b002ca0e-207a-36b6-be03-1b5372765c3e
+[16:34:11] [Server thread/INFO]: Nicknotname joined the game
+[16:34:11] [Server thread/INFO]: Nicknotname[/127.0.0.1:52542] logged in with entity id 591 at ([world]273.8157565645867, 68.0, 78.19184428114599)
+[16:34:22] [Server thread/INFO]: <!>Nicknotname has been given Dolphin's Grace 19
+[16:34:32] [Server thread/INFO]: Nicknotname issued server command: /plugman reload RandomEffects
+[16:34:32] [Server thread/INFO]: [RandomEffects] Disabling RandomEffects v1.0
+[16:34:32] [Server thread/INFO]: [RandomEffects] Enabling RandomEffects v1.0
+[16:34:40] [Server thread/INFO]: Nicknotname issued server command: /pvp
+[16:34:40] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'pvp' in plugin RandomEffects v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[patched_1.16.4.jar:git-Paper-334]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.4.jar:git-Paper-334]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:807) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:2011) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1822) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1775) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:47) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:5) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:23) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1133) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1126) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:1087) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1001) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:178) ~[patched_1.16.4.jar:git-Paper-334]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.nicknotname.randomeffects.commands.PVPcommand.onCommand(PVPcommand.java:13) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[patched_1.16.4.jar:git-Paper-334]
+	... 19 more
+[16:34:54] [Server thread/INFO]: Nicknotname issued server command: /pvp off
+[16:35:02] [Server thread/INFO]: Nicknotname should look up
+[16:35:32] [Server thread/INFO]: <!>Nicknotname has been given Invisibility 11
+[16:35:44] [Server thread/INFO]: Nicknotname issued server command: /gamemode creative
+[16:35:44] [Server thread/INFO]: [Nicknotname: Set own game mode to Creative Mode]
+[16:35:47] [Server thread/INFO]: Nicknotname issued server command: /gamemode survival
+[16:35:47] [Server thread/INFO]: [Nicknotname: Set own game mode to Survival Mode]
+[16:36:02] [Server thread/INFO]: <!>Nicknotname has been given Water Breathing 22
+[16:36:32] [Server thread/INFO]: <!>Nicknotname has been given Nausea 8
+[16:36:42] [Server thread/INFO]: Nicknotname issued server command: /give @a minecraft:iron_ingot 32
+[16:36:42] [Server thread/INFO]: [Nicknotname: Gave 32 [Iron Ingot] to Nicknotname]
+[16:37:02] [Server thread/INFO]: <!>Nicknotname has been given Nausea 20
+[16:37:06] [Server thread/INFO]: Nicknotname issued server command: /xp set @a 30 levels
+[16:37:06] [Server thread/INFO]: [Nicknotname: Set 30 experience levels on Nicknotname]
+[16:37:11] [Server thread/INFO]: Nicknotname issued server command: /xp set @a 30 levels
+[16:37:11] [Server thread/INFO]: [Nicknotname: Set 30 experience levels on Nicknotname]
+[16:37:29] [Server thread/INFO]: Nicknotname issued server command: /give @a minecraft:bookshelf 1
+[16:37:29] [Server thread/INFO]: [Nicknotname: Gave 1 [Bookshelf] to Nicknotname]
+[16:37:32] [Server thread/INFO]: <!>Nicknotname has been given Luck 11
+[16:38:02] [Server thread/INFO]: <!>Nicknotname has been given Nausea 18
+[16:38:32] [Server thread/INFO]: <!>Nicknotname has been given Blindness 11
+[16:39:02] [Server thread/INFO]: <!>Nicknotname has been Healed 20
+[16:39:32] [Server thread/INFO]: <!>Nicknotname has been given Health Boost 16
+[16:39:41] [Server thread/INFO]: Nicknotname has made the advancement [Enchanter]
+[16:39:58] [Server thread/INFO]: Nicknotname issued server command: /xp set @a 30 levels
+[16:39:58] [Server thread/INFO]: [Nicknotname: Set 30 experience levels on Nicknotname]
+[16:40:02] [Server thread/INFO]: <!>Nicknotname has been given Levitation 15
+[16:40:32] [Server thread/INFO]: <!>Nicknotname has been given Speed 7
+[16:40:41] [Server thread/INFO]: Nicknotname fell from a high place
+[16:41:02] [Server thread/INFO]: <!>Nicknotname has been Damaged 24
+[16:41:32] [Server thread/INFO]: <!>Nicknotname has been given Haste 22
+[16:41:43] [Server thread/INFO]: Nicknotname issued server command: /xp set @a 35 levels
+[16:41:43] [Server thread/INFO]: [Nicknotname: Set 35 experience levels on Nicknotname]
+[16:41:58] [Server thread/INFO]: Nicknotname issued server command: /enchant @a minecraft:fortune 2
+[16:41:58] [Server thread/INFO]: [Nicknotname: Applied enchantment Fortune II to Nicknotname's item]
+[16:42:02] [Server thread/INFO]: <!>Nicknotname has been given Strength 10
+[16:42:32] [Server thread/INFO]: <!>Nicknotname has been given Fire Resistance 22
+[16:43:02] [Server thread/INFO]: <!>Nicknotname has been given Fire Resistance 3
+[16:43:32] [Server thread/INFO]: <!>Nicknotname has been given Slow Falling 27
+[16:44:02] [Server thread/INFO]: <!>Nicknotname has been given Mining Fatigue 22
+[16:44:32] [Server thread/INFO]: <!>Nicknotname has been given Saturation 21
+[16:45:02] [Server thread/INFO]: <!>Nicknotname has been given Mining Fatigue 6
+[16:45:32] [Server thread/INFO]: <!>Nicknotname has been given Speed 8
+[16:46:02] [Server thread/INFO]: <!>Nicknotname has been given Dolphin's Grace 23
+[16:46:32] [Server thread/INFO]: <!>Nicknotname has been Healed 20
+[16:46:55] [Server thread/INFO]: Nicknotname issued server command: /give @a minecraft:phantom_membrane
+[16:46:55] [Server thread/INFO]: [Nicknotname: Gave 1 [Phantom Membrane] to Nicknotname]
+[16:47:02] [Server thread/INFO]: Nicknotname should look up
+[16:47:14] [Server thread/INFO]: Nicknotname has made the advancement [Local Brewery]
+[16:47:32] [Server thread/INFO]: <!>Nicknotname has been given Saturation 7
+[16:48:02] [Server thread/INFO]: <!>Nicknotname has been given Nausea 28
+[16:48:32] [Server thread/INFO]: <!>Nicknotname has been given Saturation 0
+[16:49:02] [Server thread/INFO]: <!>Nicknotname has been given Dolphin's Grace 3
+[16:49:32] [Server thread/INFO]: <!>Nicknotname has been Damaged 26
+[16:50:02] [Server thread/INFO]: <!>Nicknotname has been given Poison 14
+[16:50:32] [Server thread/INFO]: <!>Nicknotname has been given Haste 3
+[16:51:02] [Server thread/INFO]: <!>Nicknotname has been given Mining Fatigue 0
+[16:51:32] [Server thread/INFO]: <!>Nicknotname has been given Resistance 18
+[16:52:02] [Server thread/INFO]: <!>Nicknotname has been given Absorption 1
+[16:52:32] [Server thread/INFO]: <!>Nicknotname has been given Speed 15
+[16:53:02] [Server thread/INFO]: <!>Nicknotname has been given Glowing 20
+[16:53:32] [Server thread/INFO]: <!>Nicknotname has been given Slowness 9
+[16:54:02] [Server thread/INFO]: <!>Nicknotname has been given Luck 22
+[16:54:32] [Server thread/INFO]: <!>Nicknotname has been given Mining Fatigue 5
+[16:55:02] [Server thread/INFO]: <!>Nicknotname has been given Night Vision 24
+[16:55:32] [Server thread/INFO]: <!>Nicknotname has been given Poison 4
+[16:55:49] [Server thread/INFO]: Nicknotname was poked to death by a sweet berry bush
+[16:55:55] [Server thread/INFO]: Nicknotname lost connection: Disconnected
+[16:55:55] [Server thread/INFO]: Nicknotname left the game
+[17:59:01] [User Authenticator #3/INFO]: UUID of player Nicknotname is b002ca0e-207a-36b6-be03-1b5372765c3e
+[17:59:01] [Server thread/INFO]: Nicknotname joined the game
+[17:59:01] [Server thread/INFO]: Nicknotname[/127.0.0.1:53835] logged in with entity id 3106 at ([world]266.4584629601595, 68.0, 79.04287625323344)
+[17:59:02] [Server thread/INFO]: <!>Nicknotname has been given Nausea 27
+[17:59:31] [Server thread/INFO]: <!>Nicknotname has been given Poison 24
+[17:59:43] [Server thread/INFO]: Nicknotname issued server command: /plugman reload
+[17:59:52] [Server thread/INFO]: Nicknotname issued server command: /plugman reload RandomEffects
+[17:59:52] [Server thread/INFO]: [RandomEffects] Disabling RandomEffects v1.0
+[17:59:59] [Server thread/INFO]: [RandomEffects] Enabling RandomEffects v1.0
+[17:59:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7747ms or 154 ticks behind
+[18:00:03] [Server thread/INFO]: Nicknotname issued server command: /pvp off
+[18:00:29] [Server thread/INFO]: <!>Nicknotname has been given Absorption 14
+[18:00:59] [Server thread/INFO]: <!>Nicknotname has been given Slow Falling 29
+[18:01:29] [Server thread/INFO]: <!>Nicknotname has been given Mining Fatigue 19
+[18:01:59] [Server thread/INFO]: <!>Nicknotname has been given Fire Resistance 19
+[18:02:29] [Server thread/INFO]: Nicknotname lost connection:  you deserve this 
+[18:02:29] [Server thread/INFO]: Nicknotname left the game
+[18:02:29] [Server thread/INFO]: Nicknotname got kicked!
+[18:02:31] [User Authenticator #4/INFO]: UUID of player Nicknotname is b002ca0e-207a-36b6-be03-1b5372765c3e
+[18:02:31] [Server thread/INFO]: Nicknotname joined the game
+[18:02:32] [Server thread/INFO]: Nicknotname[/127.0.0.1:53861] logged in with entity id 3459 at ([world]257.57687335540896, 70.10131520987476, 84.85625233635676)
+[18:02:59] [Server thread/INFO]: <!>Nicknotname has been given Weakness 19
+[18:03:27] [Server thread/INFO]: Nicknotname issued server command: /xp set Nicknotname 35 levels
+[18:03:27] [Server thread/INFO]: [Nicknotname: Set 35 experience levels on Nicknotname]
+[18:03:29] [Server thread/INFO]: <!>Nicknotname has been given Absorption 27
+[18:03:59] [Server thread/INFO]: <!>Nicknotname has been given Saturation 1
+[18:04:29] [Server thread/INFO]: <!>Nicknotname has been given Conduit Power 26
+[18:04:59] [Server thread/INFO]: <!>Nicknotname has been given Speed 21
+[18:05:29] [Server thread/INFO]: <!>Nicknotname has been given Resistance 21
+[18:05:59] [Server thread/INFO]: <!>Nicknotname has been given Hero Of The Village 8
+[18:06:29] [Server thread/WARN]: [RandomEffects] Task #20584 for RandomEffects v1.0 generated an exception
+java.lang.NullPointerException: null
+	at com.nicknotname.randomeffects.randomeffects$1.run(randomeffects.java:159) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:99) ~[patched_1.16.4.jar:git-Paper-334]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:468) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1294) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:377) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1209) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:997) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:178) ~[patched_1.16.4.jar:git-Paper-334]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+[18:06:59] [Server thread/INFO]: <!>Nicknotname has been given Conduit Power 11
+[18:07:29] [Server thread/INFO]: <!>Nicknotname has been given Slow Falling 6
+[18:07:59] [Server thread/WARN]: [RandomEffects] Task #20584 for RandomEffects v1.0 generated an exception
+java.lang.NullPointerException: null
+	at com.nicknotname.randomeffects.randomeffects$1.run(randomeffects.java:159) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:99) ~[patched_1.16.4.jar:git-Paper-334]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:468) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1294) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:377) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1209) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:997) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:178) ~[patched_1.16.4.jar:git-Paper-334]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+[18:08:29] [Server thread/INFO]: <!>Nicknotname has been given Bad Omen 19
+[18:08:59] [Server thread/INFO]: <!>Nicknotname has been given Speed 9
+[18:09:29] [Server thread/INFO]: Nicknotname should look up
+[18:09:59] [Server thread/INFO]: <!>Nicknotname has been given Haste 18
+[18:10:29] [Server thread/INFO]: <!>Nicknotname has been given Strength 18
+[18:10:36] [Server thread/INFO]: Nicknotname issued server command: /enchant @a minecraft:sharpness 3
+[18:10:36] [Server thread/INFO]: [Nicknotname: Applied enchantment Sharpness III to Nicknotname's item]
+[18:10:59] [Server thread/INFO]: <!>Nicknotname has been given Bad Luck 29
+[18:11:29] [Server thread/INFO]: <!>Nicknotname has been given Glowing 11
+[18:11:55] [Server thread/INFO]: Nicknotname issued server command: /give @a minecraft:netherite_ingot
+[18:11:55] [Server thread/INFO]: [Nicknotname: Gave 1 [Netherite Ingot] to Nicknotname]
+[18:11:59] [Server thread/INFO]: <!>Nicknotname has been given Fire Resistance 28
+[18:12:29] [Server thread/INFO]: <!>Nicknotname has been given Saturation 29
+[18:12:59] [Server thread/INFO]: <!>Nicknotname has been given Strength 2
+[18:13:29] [Server thread/INFO]: <!>Nicknotname has been given Slowness 25
+[18:13:59] [Server thread/INFO]: <!>Nicknotname has been Healed 22
+[18:14:07] [Server thread/INFO]: Nicknotname issued server command: /enchant @a minecraft:sharpness 2
+[18:14:07] [Server thread/INFO]: [Nicknotname: Applied enchantment Sharpness II to Nicknotname's item]
+[18:14:29] [Server thread/INFO]: <!>Nicknotname has been given Absorption 13
+[18:14:59] [Server thread/INFO]: <!>Nicknotname has been given Nausea 21
+[18:15:29] [Server thread/INFO]: <!>Nicknotname has been given Conduit Power 1
+[18:15:59] [Server thread/INFO]: <!>Nicknotname has been given Weakness 27
+[18:16:29] [Server thread/INFO]: <!>Nicknotname has been Exploded 6
+[18:16:53] [Server thread/INFO]: Nicknotname issued server command: /gamemode creative
+[18:16:53] [Server thread/INFO]: [Nicknotname: Set own game mode to Creative Mode]
+[18:16:59] [Server thread/INFO]: <!>Nicknotname has been given Hero Of The Village 25
+[18:17:29] [Server thread/INFO]: CHIMKIN
+[18:17:59] [Server thread/INFO]: <!>Nicknotname has been given Bad Omen 23
+[18:18:29] [Server thread/INFO]: <!>PIG PIG PIG PIG PIG PIG PIG PIG PIG BEE 12
+[18:18:59] [Server thread/INFO]: Nicknotname lost connection:  you deserve this 
+[18:18:59] [Server thread/INFO]: Nicknotname left the game
+[18:18:59] [Server thread/INFO]: Nicknotname got kicked!
+[18:19:35] [User Authenticator #5/INFO]: UUID of player Nicknotname is b002ca0e-207a-36b6-be03-1b5372765c3e
+[18:19:35] [Server thread/INFO]: Nicknotname joined the game
+[18:19:35] [Server thread/INFO]: Nicknotname[/127.0.0.1:53983] logged in with entity id 5452 at ([world]264.1694300491759, 77.60301994916091, 65.21826875479259)
+[18:19:44] [Server thread/INFO]: Nicknotname issued server command: /plugman reload RandomEffects
+[18:19:44] [Server thread/INFO]: [RandomEffects] Disabling RandomEffects v1.0
+[18:19:45] [Server thread/INFO]: [RandomEffects] Enabling RandomEffects v1.0
+[18:20:14] [Server thread/INFO]: <!>Nicknotname has been given Strength 10
+[18:20:44] [Server thread/INFO]: <!>Nicknotname has been Healed 21
+[18:21:14] [Server thread/INFO]: <!>Nicknotname has been given Night Vision 19
+[18:21:44] [Server thread/INFO]: <!>Nicknotname has been given Luck 21
+[18:21:46] [Server thread/INFO]: Nicknotname issued server command: /gamemode survival
+[18:21:46] [Server thread/INFO]: [Nicknotname: Set own game mode to Survival Mode]
+[18:22:14] [Server thread/INFO]: <!>Nicknotname has been given Resistance 2
+[18:22:24] [Server thread/INFO]: Nicknotname issued server command: /gamemode creative
+[18:22:24] [Server thread/INFO]: [Nicknotname: Set own game mode to Creative Mode]
+[18:22:48] [Server thread/INFO]: Location{world=CraftWorld{name=world},x=-696.0,y=32.0,z=-1320.0,pitch=0.0,yaw=0.0}
+[18:23:14] [Server thread/INFO]: <!>Nicknotname has been Healed 1
+[18:23:44] [Server thread/INFO]: Nicknotname should look up
+[18:24:14] [Server thread/INFO]: <!>Nicknotname has been given Saturation 15
+[18:24:44] [Server thread/INFO]: <!>Nicknotname has been given Poison 21
+[18:25:14] [Server thread/INFO]: <!>Nicknotname has been given Blindness 3
+[18:25:44] [Server thread/INFO]: <!>Nicknotname has been given Regeneration 22
+[18:26:14] [Server thread/INFO]: <!>Nicknotname has been Exploded 22
+[18:26:44] [Server thread/INFO]: <!>Nicknotname has been given Slow Falling 6
+[18:27:14] [Server thread/WARN]: [RandomEffects] Task #37050 for RandomEffects v1.0 generated an exception
+java.lang.NullPointerException: null
+	at com.nicknotname.randomeffects.randomeffects$1.run(randomeffects.java:159) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:99) ~[patched_1.16.4.jar:git-Paper-334]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:468) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1294) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:377) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1209) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:997) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:178) ~[patched_1.16.4.jar:git-Paper-334]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+[18:27:44] [Server thread/INFO]: <!>Nicknotname has been given Bad Luck 23
+[18:28:14] [Server thread/INFO]: <!>Nicknotname has been given Health Boost 3
+[18:28:44] [Server thread/WARN]: [RandomEffects] Task #37050 for RandomEffects v1.0 generated an exception
+java.lang.NullPointerException: null
+	at com.nicknotname.randomeffects.randomeffects$1.run(randomeffects.java:159) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:99) ~[patched_1.16.4.jar:git-Paper-334]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:468) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1294) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:377) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1209) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:997) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:178) ~[patched_1.16.4.jar:git-Paper-334]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+[18:29:14] [Server thread/INFO]: <!>Nicknotname has been given Resistance 24
+[18:29:44] [Server thread/INFO]: <!>Nicknotname has been given Bad Omen 18
+[18:30:14] [Server thread/INFO]: <!>Nicknotname has been given Bad Luck 22
+[18:30:44] [Server thread/INFO]: <!>Nicknotname has been Withered 21
+[18:31:14] [Server thread/INFO]: Nicknotname lost connection:  you deserve this 
+[18:31:14] [Server thread/INFO]: Nicknotname left the game
+[18:31:14] [Server thread/INFO]: Nicknotname got kicked!
+[18:31:15] [User Authenticator #6/INFO]: UUID of player Nicknotname is b002ca0e-207a-36b6-be03-1b5372765c3e
+[18:31:15] [Server thread/INFO]: Nicknotname joined the game
+[18:31:16] [Server thread/INFO]: Nicknotname[/127.0.0.1:54108] logged in with entity id 6555 at ([world]266.69999998807907, 73.20000004768374, 80.50432677644312)
+[18:31:38] [Server thread/INFO]: Nicknotname issued server command: /gamemode survival
+[18:31:38] [Server thread/INFO]: [Nicknotname: Set own game mode to Survival Mode]
+[18:31:44] [Server thread/INFO]: <!>Nicknotname has been given Conduit Power 25
+[18:32:14] [Server thread/INFO]: <!>Nicknotname has been given Strength 15
+[18:32:44] [Server thread/INFO]: <!>Nicknotname has been given Haste 21
+[18:33:14] [Server thread/INFO]: <!>Nicknotname has been Healed 6
+[18:33:44] [Server thread/INFO]: Nicknotname should look up
+[18:34:14] [Server thread/INFO]: <!>Nicknotname has been given Conduit Power 26
+[18:34:44] [Server thread/INFO]: Nicknotname should look up
+[18:35:14] [Server thread/INFO]: <!>Nicknotname has been given Jump Boost 19
+[18:35:44] [Server thread/WARN]: [RandomEffects] Task #37050 for RandomEffects v1.0 generated an exception
+java.lang.NullPointerException: null
+	at com.nicknotname.randomeffects.randomeffects$1.run(randomeffects.java:159) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:99) ~[patched_1.16.4.jar:git-Paper-334]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:468) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1294) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:377) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1209) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:997) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:178) ~[patched_1.16.4.jar:git-Paper-334]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+[18:36:14] [Server thread/INFO]: Location{world=CraftWorld{name=world},x=-696.0,y=32.0,z=-1320.0,pitch=0.0,yaw=0.0}
+[18:36:44] [Server thread/INFO]: Nicknotname lost connection:  you deserve this 
+[18:36:44] [Server thread/INFO]: Nicknotname left the game
+[18:36:44] [Server thread/INFO]: Nicknotname got kicked!
+[18:36:45] [User Authenticator #7/INFO]: UUID of player Nicknotname is b002ca0e-207a-36b6-be03-1b5372765c3e
+[18:36:45] [Server thread/INFO]: Nicknotname joined the game
+[18:36:45] [Server thread/INFO]: Nicknotname[/127.0.0.1:54165] logged in with entity id 7148 at ([world]267.9076831232719, 68.03584062504456, 83.46737487459292)
+[18:37:14] [Server thread/INFO]: <!>Nicknotname has been given Regeneration 7
+[18:37:40] [Server thread/INFO]: Nicknotname issued server command: /gamemode creative
+[18:37:40] [Server thread/INFO]: [Nicknotname: Set own game mode to Creative Mode]
+[18:37:44] [Server thread/INFO]: <!>Nicknotname has been given Blindness 3
+[18:38:14] [Server thread/INFO]: <!>Nicknotname has been given Invisibility 19
+[18:38:44] [Server thread/INFO]: <!>Nicknotname has been given Jump Boost 13
+[18:38:51] [Server thread/INFO]: Nicknotname issued server command: /gamemode survival
+[18:38:51] [Server thread/INFO]: [Nicknotname: Set own game mode to Survival Mode]
+[18:39:14] [Server thread/INFO]: <!>Nicknotname has been given Fire Resistance 22
+[18:39:15] [Server thread/INFO]: Nicknotname lost connection: Disconnected
+[18:39:15] [Server thread/INFO]: Nicknotname left the game
+[18:39:19] [User Authenticator #8/INFO]: UUID of player Nicknotname is b002ca0e-207a-36b6-be03-1b5372765c3e
+[18:39:20] [Server thread/INFO]: Nicknotname joined the game
+[18:39:20] [Server thread/INFO]: Nicknotname[/127.0.0.1:54204] logged in with entity id 7433 at ([world]225.9908077025919, 66.0, 37.7995902941218)
+[18:39:44] [Server thread/INFO]: <!>Nicknotname has been given Regeneration 22
+[18:40:14] [Server thread/INFO]: <!>Nicknotname has been given Mining Fatigue 5
+[18:40:44] [Server thread/INFO]: <!>Nicknotname has been Damaged 12
+[18:41:14] [Server thread/INFO]: <!>Nicknotname has been given Haste 8
+[18:41:44] [Server thread/INFO]: CHIMKIN
+[18:42:14] [Server thread/INFO]: <!>Nicknotname has been given Slowness 6
+[18:42:44] [Server thread/INFO]: <!>Nicknotname has been given Blindness 21
+[18:43:14] [Server thread/INFO]: <!>Nicknotname has been given Weakness 26
+[18:43:44] [Server thread/INFO]: Nicknotname should look up
+[18:44:14] [Server thread/INFO]: Location{world=CraftWorld{name=world},x=-696.0,y=32.0,z=-1320.0,pitch=0.0,yaw=0.0}
+[18:44:31] [Server thread/INFO]: Nicknotname issued server command: /give @a bone 12
+[18:44:31] [Server thread/INFO]: [Nicknotname: Gave 12 [Bone] to Nicknotname]
+[18:44:37] [Server thread/INFO]: Nicknotname has made the advancement [Best Friends Forever]
+[18:44:44] [Server thread/INFO]: <!>Nicknotname has been given Haste 15
+[18:45:14] [Server thread/INFO]: <!>Nicknotname has been given Water Breathing 22
+[18:45:44] [Server thread/INFO]: <!>Nicknotname has been given Night Vision 19
+[18:45:56] [Server thread/INFO]: Nicknotname issued server command: /give @a coal 64
+[18:45:56] [Server thread/INFO]: [Nicknotname: Gave 64 [Coal] to Nicknotname]
+[18:46:09] [Server thread/INFO]: Nicknotname issued server command: /clear @a coal
+[18:46:09] [Server thread/INFO]: [Nicknotname: Removed 29 items from player Nicknotname]
+[18:46:14] [Server thread/INFO]: <!>Nicknotname has been given Blindness 21
+[18:46:36] [Server thread/INFO]: Nicknotname issued server command: /gamerule doDaylightCycle
+[18:46:41] [Server thread/INFO]: Nicknotname issued server command: /gamerule doDaylightCycle true
+[18:46:41] [Server thread/INFO]: [Nicknotname: Gamerule doDaylightCycle is now set to: true]
+[18:46:44] [Server thread/INFO]: <!>Nicknotname has been given Saturation 6
+[18:47:14] [Server thread/INFO]: <!>Nicknotname has been given Bad Omen 8
+[18:47:44] [Server thread/INFO]: <!>Nicknotname has been given Hero Of The Village 29
+[18:48:14] [Server thread/INFO]: <!>Nicknotname has been given Weakness 27
+[18:48:44] [Server thread/INFO]: <!>Nicknotname has been given Hunger 9
+[18:49:12] [Server thread/INFO]: Nicknotname issued server command: /gamerule doDaylightCycle false
+[18:49:12] [Server thread/INFO]: [Nicknotname: Gamerule doDaylightCycle is now set to: false]
+[18:49:14] [Server thread/INFO]: Nicknotname lost connection:  you deserve this 
+[18:49:14] [Server thread/INFO]: Nicknotname left the game
+[18:49:14] [Server thread/INFO]: Nicknotname got kicked!
+[18:49:16] [User Authenticator #9/INFO]: UUID of player Nicknotname is b002ca0e-207a-36b6-be03-1b5372765c3e
+[18:49:16] [Server thread/INFO]: Nicknotname joined the game
+[18:49:16] [Server thread/INFO]: Nicknotname[/127.0.0.1:54274] logged in with entity id 9024 at ([world]254.30000001192096, 66.0, 82.50206512572994)
+[18:49:43] [Server thread/INFO]: Nicknotname issued server command: /give @a minecraft:torch
+[18:49:43] [Server thread/INFO]: [Nicknotname: Gave 1 [Torch] to Nicknotname]
+[18:49:44] [Server thread/INFO]: <!>Nicknotname has been given Luck 23
+[18:50:14] [Server thread/INFO]: <!>Nicknotname has been Withered 28
+[18:50:44] [Server thread/INFO]: <!>Nicknotname has been given Regeneration 17
+[18:51:14] [Server thread/INFO]: <!>Nicknotname has been given Bad Omen 18
+[18:51:44] [Server thread/INFO]: <!>Nicknotname has been given Resistance 14
+[18:52:14] [Server thread/INFO]: <!>Nicknotname has been given Regeneration 18
+[18:52:44] [Server thread/WARN]: [RandomEffects] Task #37050 for RandomEffects v1.0 generated an exception
+java.lang.NullPointerException: null
+	at com.nicknotname.randomeffects.randomeffects$1.run(randomeffects.java:159) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:99) ~[patched_1.16.4.jar:git-Paper-334]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:468) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1294) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:377) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1209) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:997) ~[patched_1.16.4.jar:git-Paper-334]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:178) ~[patched_1.16.4.jar:git-Paper-334]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+[18:53:14] [Server thread/INFO]: Nicknotname blew up
+[18:53:14] [Server thread/INFO]: <!>Nicknotname has been Exploded 29
+[18:53:44] [Server thread/INFO]: <!>Nicknotname has been given Absorption 21
+[18:54:14] [Server thread/INFO]: <!>Nicknotname has been given Conduit Power 28
+[18:54:44] [Server thread/INFO]: Nicknotname blew up
+[18:54:44] [Server thread/INFO]: <!>Nicknotname has been Exploded 18
+[18:54:52] [Server thread/INFO]: Nicknotname issued server command: /plugman reload RandomEffects
+[18:54:52] [Server thread/INFO]: [RandomEffects] Disabling RandomEffects v1.0
+[18:54:53] [Server thread/INFO]: [RandomEffects] Enabling RandomEffects v1.0
+[18:55:22] [Server thread/INFO]: <!>Nicknotname has been given Bad Luck 8
+[18:55:52] [Server thread/INFO]: <!>Nicknotname has been given Hero Of The Village 18
+[18:56:13] [Server thread/INFO]: Nicknotname issued server command: /give @a minecraft:rotten_flesh 5
+[18:56:13] [Server thread/INFO]: [Nicknotname: Gave 5 [Rotten Flesh] to Nicknotname]
+[18:56:22] [Server thread/INFO]: <!>Nicknotname has been given Dolphin's Grace 18
+[18:56:52] [Server thread/INFO]: <!>Nicknotname has been given Water Breathing 19
+[18:57:22] [Server thread/INFO]: <!>Nicknotname has been given Blindness 10
+[18:57:52] [Server thread/INFO]: <!>Nicknotname has been given Mining Fatigue 7
+[18:58:22] [Server thread/INFO]: <!>Nicknotname has been given Strength 29
+[18:58:52] [Server thread/INFO]: <!>Nicknotname has been given Bad Omen 2
+[18:59:22] [Server thread/INFO]: <!>Nicknotname has been given Poison 2
+[18:59:52] [Server thread/INFO]: <!>Nicknotname has been given Jump Boost 20
+[19:00:22] [Server thread/INFO]: Nicknotname lost connection:  you deserve this 
+[19:00:22] [Server thread/INFO]: Nicknotname left the game
+[19:00:22] [Server thread/INFO]: Nicknotname got kicked!
+[19:00:24] [User Authenticator #10/INFO]: UUID of player Nicknotname is b002ca0e-207a-36b6-be03-1b5372765c3e
+[19:00:24] [Server thread/INFO]: Nicknotname joined the game
+[19:00:24] [Server thread/INFO]: Nicknotname[/127.0.0.1:54343] logged in with entity id 10287 at ([world]252.99813800533985, 59.0, 84.69999998807907)
+[19:00:52] [Server thread/INFO]: Nicknotname should look up
+[19:01:22] [Server thread/INFO]: Location{world=CraftWorld{name=world},x=-696.0,y=32.0,z=-1320.0,pitch=0.0,yaw=0.0}
+[19:01:29] [Server thread/INFO]: Nicknotname issued server command: /give @a minecraft:torch 5
+[19:01:29] [Server thread/INFO]: [Nicknotname: Gave 5 [Torch] to Nicknotname]
+[19:01:52] [Server thread/INFO]: <!>Nicknotname has been given Mining Fatigue 22
+[19:02:22] [Server thread/INFO]: <!>Nicknotname has been given Poison 0
+[19:02:52] [Server thread/INFO]: Nicknotname lost connection:  you deserve this 
+[19:02:52] [Server thread/INFO]: Nicknotname left the game
+[19:02:52] [Server thread/INFO]: Nicknotname got kicked!
+[19:02:54] [User Authenticator #11/INFO]: UUID of player Nicknotname is b002ca0e-207a-36b6-be03-1b5372765c3e
+[19:02:54] [Server thread/INFO]: Nicknotname joined the game
+[19:02:54] [Server thread/INFO]: Nicknotname[/127.0.0.1:54376] logged in with entity id 10553 at ([world]252.9725050752521, 60.33226489655115, 85.04298336517994)
+[19:03:22] [Server thread/INFO]: <!>Nicknotname has been given Saturation 14
+[19:03:52] [Server thread/INFO]: <!>Nicknotname has been given Weakness 25
+[19:04:22] [Server thread/INFO]: <!>PIG PIG PIG PIG PIG PIG PIG PIG PIG BEE 27
+[19:04:52] [Server thread/INFO]: Nicknotname should look up
+[19:05:09] [Server thread/INFO]: Nicknotname issued server command: /enchant @a minecraft:fortune 3
+[19:05:09] [Server thread/INFO]: [Nicknotname: Applied enchantment Fortune III to Nicknotname's item]
+[19:05:22] [Server thread/INFO]: <!>Nicknotname has been given Speed 9
+[19:05:52] [Server thread/INFO]: <!>Nicknotname has been given Nausea 26
+[19:06:22] [Server thread/INFO]: <!>Nicknotname has been given Saturation 0
+[19:06:52] [Server thread/INFO]: Nicknotname should look up
+[19:07:22] [Server thread/INFO]: <!>Nicknotname has been given Luck 16
+[19:07:52] [Server thread/INFO]: <!>Nicknotname has been given Poison 19
+[19:08:22] [Server thread/INFO]: CHIMKIN
+[19:08:22] [Server thread/INFO]: Nicknotname blew up
+[19:08:45] [Server thread/INFO]: Nicknotname issued server command: /gamemode spectator
+[19:08:45] [Server thread/INFO]: [Nicknotname: Set own game mode to Spectator Mode]
+[19:08:52] [Server thread/INFO]: <!>Nicknotname has been given Water Breathing 29
+[19:08:56] [Server thread/INFO]: Nicknotname issued server command: /gamemode survival
+[19:08:56] [Server thread/INFO]: [Nicknotname: Set own game mode to Survival Mode]
+[19:09:22] [Server thread/INFO]: <!>Nicknotname has been given Glowing 7
+[19:09:52] [Server thread/INFO]: <!>Nicknotname has been given Slow Falling 23
+[19:10:22] [Server thread/INFO]: <!>Nicknotname has been given Haste 22
+[19:10:52] [Server thread/INFO]: <!>Nicknotname has been given Absorption 19
+[19:11:22] [Server thread/INFO]: <!>Nicknotname has been given Fire Resistance 16
+[19:11:52] [Server thread/INFO]: <!>Nicknotname has been Exploded 29
+[19:12:22] [Server thread/INFO]: <!>Nicknotname has been given Jump Boost 11
+[19:12:52] [Server thread/INFO]: <!>Nicknotname has been given Weakness 29
+[19:13:22] [Server thread/INFO]: <!>Nicknotname has been given Conduit Power 26
+[19:13:52] [Server thread/INFO]: <!>Nicknotname has been given Slow Falling 15
+[19:14:22] [Server thread/INFO]: <!>Nicknotname has been given Levitation 0
+[19:14:52] [Server thread/INFO]: Nicknotname should look up
+[19:15:22] [Server thread/INFO]: <!>Nicknotname has been Healed 19
+[19:15:49] [Server thread/INFO]: Nicknotname lost connection: Disconnected
+[19:15:50] [Server thread/INFO]: Nicknotname left the game
+[20:29:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8177ms or 163 ticks behind
+[22:01:22] [Server thread/INFO]: Stopping the server
+[22:01:22] [Server thread/INFO]: Stopping server
+[22:01:22] [Server thread/INFO]: [RandomEffects] Disabling RandomEffects v1.0
+[22:01:22] [Server thread/INFO]: [Vixio] Disabling Vixio v2.0.7
+[22:01:22] [Server thread/INFO]: [skript-reflect] Disabling skript-reflect v2.2-alpha2
+[22:01:22] [Server thread/INFO]: [skript-yaml] Disabling skript-yaml v1.3.2
+[22:01:22] [Server thread/INFO]: [Skript] Disabling Skript v2.5.3
+[22:01:22] [Server thread/INFO]: [Servermute] Disabling Servermute v1.0
+[22:01:22] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.1.7
+[22:01:22] [Server thread/INFO]: Saving players
+[22:01:22] [Server thread/INFO]: Saving worlds
+[22:01:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:01:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:01:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:01:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:01:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:01:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:01:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:01:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:01:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:01:23] [Server thread/INFO]: Flushing Chunk IO
+[22:01:23] [Server thread/INFO]: Closing Thread Pool
+[22:01:23] [Server thread/INFO]: Closing Server
